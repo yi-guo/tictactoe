@@ -16,9 +16,11 @@ Version 1.2:
   - Make GUI for the game. You can simply click to play.
   - Still rule based AI. Have you won yet?
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/yi-guo/tictactoe/images/tictactoe_1.2.png "version 1.2")
 
 Version 1.1:
   - User has to enter the corresponding coordinates to "press" a button.
   - Need to play with the coordinate reference table.
   - Rule based AI, which means you have a chance to win if you know how. ;)
+
+![alt text](https://github.com/yi-guo/tictactoe/images/tictactoe_1.1.png "version 1.1")
