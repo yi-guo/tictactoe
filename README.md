@@ -21,4 +21,4 @@ Version 1.1:
   - Need to play with the coordinate reference table.
   - Rule based AI, which means you have a chance to win if you know how. ;)
 
-![alt text](tictactoe/images/tictactoe_1.1.png "Logo Title Text 1")
+![alt text](tictactoe/images/tictactoe_1.1.png?raw=true "Logo Title Text 1")
