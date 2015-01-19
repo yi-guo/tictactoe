@@ -20,6 +20,3 @@ Version 1.1:
   - User has to enter the corresponding coordinates to "press" a button.
   - Need to play with the coordinate reference table.
   - Rule based AI, which means you have a chance to win if you know how. ;)
-
-![alt text](tictactoe/images/tictactoe_1.1.png?raw=true "Logo Title Text 1")
-![alt text](https://github.com/yi-guo/tictactoe/images/tictactoe_1.1.png)
