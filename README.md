@@ -3,9 +3,9 @@
 A self-written Tic Tac Toe game.
 
 To run the game, simple invoke
-
+```
   $ python tictactoe_1.x
-
+```
 Note: The game board telling how many times you've won is fake. It'll be my next upgrade.
 
 Version 1.3 Updates:
