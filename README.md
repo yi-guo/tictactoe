@@ -22,3 +22,4 @@ Version 1.1:
   - Rule based AI, which means you have a chance to win if you know how. ;)
 
 ![alt text](tictactoe/images/tictactoe_1.1.png?raw=true "Logo Title Text 1")
+![alt tag](https://raw.github.com/yi-guo/tictactoe/images/tictactoe_1.1.png)
